@@ -1,5 +1,6 @@
-<!-- ## Hi there 👋 -->
-
+## Introduction ☺
+<div align=center>
+  
 #### 📃 Language 📃<br>
 <img src="https://img.shields.io/badge/Python-2F6CA5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=R&logoColor=white"/>
 
@@ -21,7 +22,7 @@
 
 #### 🔤 Etc 🔤<br>
 <img src="https://img.shields.io/badge/Notion-404040?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=Excel&logoColor=white"/> <img src="https://img.shields.io/badge/Spreadsheet-0F9D58?style=flat-square&logo=Spreadsheet&logoColor=white"/>
-
+</div>
 
 <!--  
 [![yoondev23's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoondev23&show_icons=true&theme=buefy)](https://github.com/yoondev23/github-readme-stats)
